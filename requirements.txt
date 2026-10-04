@@ -1,0 +1,12 @@
+google-genai
+python-dotenv
+pydantic>=2
+pandas
+beautifulsoup4
+lxml
+python-dateutil
+pypdf
+python-docx
+openpyxl
+streamlit
+scikit-learn
